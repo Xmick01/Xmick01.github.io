@@ -6,18 +6,16 @@ I graduated with a bachelor's in biology, but now I'm switching to cybersecurity
 
 ## Objective
 
-My journey from biology to technology has led me to develop an interest for cybersecurity, and I am now eager to transition into this field, specifically aiming for an entry-level Security Analyst and then move on to a Security Operations Center (SOC) as a Tier 1 Analyst.
+I am eager to transition into this field, specifically aiming for an entry-level security analyst role and then move on to a Security Operations Center (SOC) role as a Tier 1 Analyst.
 
-## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/Xmick01/SOC-Automation-Project-">SOC Automation Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Xmick01/Deploying-and-Managing-a-T-Pot-Honeypot">Honeypot</a>|
-| Security Automation with Shuffle SOAR         | <a href="https://github.com/Xmick01/SOC-Automation-Project-">SOC Automation Lab</a>|
-| Incident Response Planning and Execution      | <a href="https://github.com/Xmick01/SOC-Automation-Project-">SOC Automation Lab</a>|
-| Case Management with TheHive                  | <a href="https://github.com/Xmick01/SOC-Automation-Project-">SOC Automation Lab</a>|
-| Scripting and Automation for Threat Mitigation | <a href="https://github.com/Xmick01/SOC-Automation-Project-">SOC Automation Lab</a>|
+## Projects
+- [SOC Automation Project](https://github.com/Xmick01/SOC-Automation-Project-)
+- [Active Directory](https://github.com/Xmick01/Active-Directory-lab/blob/main/README.md)
+- [Honeypot](https://github.com/Xmick01/Deploying-and-Managing-a-T-Pot-Honeypot)
+- [MITRE ATT&CK Framework](https://github.com/Xmick01/MITRE-ATT-CK-Framework-Implementation-Project)
+- [Basic Home Lab](https://github.com/Xmick01/Basic-Home-Lab)
+
 
 ## Tools
 - Splunk
@@ -54,8 +52,24 @@ My journey from biology to technology has led me to develop an interest for cybe
 <img src="https://img.shields.io/badge/-Python%20for%20Cybersecurity%20Specialization%20(Infosec)-FF0000?style=for-the-badge&logo=Python&logoColor=white" />
 </div>
 
-## Projects
-- [SOC Automation Project](https://github.com/Xmick01/SOC-Automation-Project-)
-- [Active Directory](https://github.com/Xmick01/Active-Directory-lab/blob/main/README.md)
-- [Honeypot](https://github.com/Xmick01/Deploying-and-Managing-a-T-Pot-Honeypot)
-- [MITRE ATT&CK Framework](https://github.com/Xmick01/MITRE-ATT-CK-Framework-Implementation-Project)
+## Skills
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/Xmick01/SOC-Automation-Project-">SOC Automation Lab</a>|
+| Security Automation with Shuffle SOAR         | <a href="https://github.com/Xmick01/SOC-Automation-Project-">SOC Automation Lab</a>|
+| Incident Response Planning and Execution      | <a href="https://github.com/Xmick01/SOC-Automation-Project-">SOC Automation Lab</a>|
+| Case Management with TheHive                  | <a href="https://github.com/Xmick01/SOC-Automation-Project-">SOC Automation Lab</a>|
+| Scripting and Automation for Threat Mitigation | <a href="https://github.com/Xmick01/SOC-Automation-Project-">SOC Automation Lab</a>|
+| User and Group Management | <a href="https://github.com/Xmick01/Active-Directory-lab/blob/main/README.md">Active Directory Lab</a>|
+|DNS Integration | <a href="https://github.com/Xmick01/Active-Directory-lab/blob/main/README.md">Active Directory Lab</a>|
+| Threat Intelligence Analysis | <a href="https://github.com/Xmick01/MITRE-ATT-CK-Framework-Implementation-Project">MITRE ATT&CK</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Xmick01/Deploying-and-Managing-a-T-Pot-Honeypot">Honeypot</a>|
+| Incident Response and Threat Analysis | <a href="https://github.com/Xmick01/Deploying-and-Managing-a-T-Pot-Honeypot">Honeypot</a>|
+| Data Analysis and Visualization | <a href="https://github.com/Xmick01/Deploying-and-Managing-a-T-Pot-Honeypot">Honeypot</a>|
+| System Administration and Automation | <a href="https://github.com/Xmick01/Deploying-and-Managing-a-T-Pot-Honeypot">Honeypot</a>|
+| Data Analysis | <a href="https://github.com/Xmick01/Basic-Home-Lab">Basic Home Lab</a>|
+| Threat Detection | <a href="https://github.com/Xmick01/Basic-Home-Lab">Basic Home Lab</a>|
+| Network Configuration | <a href="https://github.com/Xmick01/Basic-Home-Lab">Basic Home Lab</a>|
+| Malware Analysis | <a href="https://github.com/Xmick01/Basic-Home-Lab">Basic Home Lab</a>|
+

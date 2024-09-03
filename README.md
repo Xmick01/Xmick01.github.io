@@ -1,5 +1,8 @@
 # Hello, I'm Xarius 
-<a href="https://linkedin.com/in/xarius-mickens-564b3a171/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/xarius-mickens-564b3a171/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/user-attachments/files/16851955/Xarius.M.Cybersecurity.resume.docx">
+    <img src="https://img.shields.io/badge/-Resume-0072b1?style=for-the-badge&logo=readme&logoColor=white" alt="Xarius's Cybersecurity Resume" />
+</a>
+
 
 
 I graduated with a bachelor's in biology, but now I'm switching to cybersecurity. I got interested in technology and the problem-solving aspect of cybersecurity. My dedication involves continuing to learn new programming skills, supporting security awareness, and collaborating effectively to implement strong protective measures. I look forward to contributing to cybersecurity by upholding the highest ethical standards.

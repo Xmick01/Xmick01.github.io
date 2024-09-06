@@ -1,5 +1,5 @@
 # Hello, I'm Xarius 
-<a href="https://linkedin.com/in/xarius-mickens-564b3a171/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/user-attachments/files/16851955/Xarius.M.Cybersecurity.resume.docx">
+<a href="https://linkedin.com/in/xarius-mickens-564b3a171/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/user-attachments/files/16903218/Xarius.M.Cybersecurity.resume.docx">
     <img src="https://img.shields.io/badge/-Resume-0072b1?style=for-the-badge&logo=readme&logoColor=white" alt="Xarius's Cybersecurity Resume" />
 </a>
 
